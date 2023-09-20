@@ -1,0 +1,43 @@
+.nav{
+    display: flex;
+    justify-content: center;
+}
+
+.nav2{
+    border: 1px solid black;
+}
+
+.nav3{
+    border-top: 1px solid black;
+}
+
+#inputbox{
+    margin-top: 35px;
+    background-color: rgb(230, 226, 226);
+    border: none;
+    width: 300px;
+    border-radius: 50px;
+    align-items: center;
+    padding: 10px;
+}
+
+.hd1{
+    background-color: tomato;
+    color: black;
+    height: 100px;
+    padding: 25px;
+}
+
+.hd2{
+    background-color: burlywood;
+    color: black;
+    height: 100px;
+    padding: 25px;
+}
+
+.hd3{
+    background-color: aqua;
+    color: black;
+    height: 100px;
+    padding: 25px;
+}
